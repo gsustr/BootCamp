@@ -1,4 +1,14 @@
 /*Prueba de colores*/
 h1{
     background-color: blue;
+    color: white;
+}
+
+h2{
+    background-color: green;
+}
+
+p{
+    background-color: red;
+    color:lightgreen
 }
